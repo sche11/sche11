@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://rssread.tk/bilibili/followings/dynamic/110904497?filterout=奖"
+          feed_list: "https://rssread.tk/ncm/playlist/552061404"
