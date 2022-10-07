@@ -33,17 +33,14 @@
 - [ギガアイシテル - レキシ](https://music.163.com/#/song?id=1477685157)
 - [友よ ～ この先もずっと・・・ - ケツメイシ](https://music.163.com/#/song?id=407485521)
 <!-- BLOG-POST-LIST:END -->
-  
-<details>
-<br>
-  
+   
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
 <br>
 **🐱 My Github Data** 
-
+<br>
 > 🏆 357 Contributions in the Year 2020
  > 
 > 📦 147.2 kB Used in Github's Storage 
@@ -56,21 +53,4 @@
 
 **I'm a Night 🦉** 
   
-</details>
- 
-<details>
-<summary> <b>📫 Contact me </b></summary>
-<p align="center">
-<br>  
- <a href="https://twitter.com/shreyaaaaaaaaa_">
-  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/Shreya549">
-  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/the_strange_concoction/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-  
-</p>
 </details>
