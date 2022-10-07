@@ -62,6 +62,16 @@
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
+  
+ <a href="https://twitter.com/shreyaaaaaaaaa_">
+  <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/Shreya549">
+  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/the_strange_concoction/">
+  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+  
 </p>
 </details>
