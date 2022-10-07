@@ -41,6 +41,45 @@
 <a href="https://github.com/LexxFade?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexxFade&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
 </a>
-<a href="https://github.com/LexxFade?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LexxFade&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
-</a>
+
+<details>
+<summary> <b>📊 Weekly Stats</b> </summary>
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208061%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 357 Contributions in the Year 2020
+ > 
+> 📦 147.2 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories
+ > 
+> 🔑 3 Private Repositories 
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Parply/Parply/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+
+</details>
+ 
+<details>
+<summary> <b>📫 Contact me </b></summary>
+<p align="center">
+<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
+<a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
+</p>
+</details>
+
+------
+  
