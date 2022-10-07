@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://rssread.tk">sch11</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats" />
 <img align="right" width=400px alt="Unicorn" src="banner.png" /><p>
 
