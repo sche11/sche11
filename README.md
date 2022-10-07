@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p><img align="left" href="https://github.com/sche11/"><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats" /></p>
-<p><img align="right" href="https://rssread.tk"><img src="banner.png"  height="410" alt="sche11 Banner" /></p>
+<p><img align="right" href="https://rssread.tk"><img src="banner.png"  width="410" alt="sche11 Banner" /></p>
 
 
 <p align="center">
