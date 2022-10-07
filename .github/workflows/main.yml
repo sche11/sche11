@@ -12,4 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://rssread.tk/bilibili/followings/dynamic/110904497?filterout=中奖|抽奖|下单|拼多多|优惠|优惠劵|深空之眼|眼相关|读剧情|航空|预告|捞|杀死那个"
+          feed_list: "https://rssread.tk/bilibili/followings/dynamic/110904497?filterout=奖"
