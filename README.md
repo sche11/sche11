@@ -35,13 +35,7 @@
 <!-- BLOG-POST-LIST:END -->
   
 <details>
-  
-<details>
-  <summary>Github Public Stats :computer:</summary>
-<a href="https://github.com/LexxFade?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexxFade&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
-</a>
-</details>
+<br>
   
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
@@ -68,8 +62,6 @@
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-<a href="https://www.linkedin.com/in/alexander-pinches-52b099165/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.kaggle.com/giraffey"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Giraffey-blue?style=for-the-badge&logo=kaggle"></a>
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 </details>
