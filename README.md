@@ -41,7 +41,8 @@
 <a href="https://github.com/LexxFade?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexxFade&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
 </a>
-
+</details>
+  
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
 
@@ -62,7 +63,6 @@
 
 **I'm a Night 🦉** 
   
-```
 </details>
  
 <details>
@@ -73,6 +73,3 @@
 <a href="mailto:alex_pinches@btinternet.com"><img alt="Email" src="https://img.shields.io/badge/Email-Alexander%20John%20Pinches-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 </details>
-
-------
-  
