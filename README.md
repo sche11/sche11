@@ -3,16 +3,6 @@
 
 <img align="right" width=400px alt="Unicorn" src="banner.png" /><p>
 
-<br>
-<details>
-  <summary>Github Public Stats :computer:</summary>
-<a href="https://github.com/LexxFade?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexxFade&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
-</a>
-<a href="https://github.com/LexxFade?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LexxFade&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
-</a>
-
 <p align="center">
   <strong><a href="https://rssread.tk">Official Website</a></strong> |
   <strong><a href="https://rssread.tk">Twitter</a></strong> |
@@ -35,6 +25,8 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
+<details>
+  <summary>like music :computer:</summary>
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
 - [一路逆风 - G.E.M.邓紫棋](https://music.163.com/#/song?id=36103237)
@@ -43,3 +35,12 @@
 - [ギガアイシテル - レキシ](https://music.163.com/#/song?id=1477685157)
 - [友よ ～ この先もずっと・・・ - ケツメイシ](https://music.163.com/#/song?id=407485521)
 <!-- BLOG-POST-LIST:END -->
+  
+<details>
+  <summary>Github Public Stats :computer:</summary>
+<a href="https://github.com/LexxFade?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexxFade&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
+</a>
+<a href="https://github.com/LexxFade?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LexxFade&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
+</a>
