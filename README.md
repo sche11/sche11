@@ -1,7 +1,7 @@
 ### Hi there 👋
-###
-< img src="https://github-readme-stats.vercel.app/api?username=sche11&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
-###添加常用语言标签
+### add data plugins
+<img src="https://github-readme-stats.vercel.app/api?username=sche11&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
+### add most used language tags
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
