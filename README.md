@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <a href="https://rssread.tk">sch11</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<p>href="https://github.com/sche11/"><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats" />
 <img align="right" width=410px alt="Unicorn" src="banner.png" /><p>
 
 
