@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://rssread.tk">sch11</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<p align="left">
-  <a href="https://github.com/sche11/"><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats"></a>
-<p align="right">
-  <a href="https://rssread.tk"><img src="banner.png"  height="200" alt="sche11 Banner"></a>
+<p><img align="left" <a href="https://github.com/sche11/"><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats"></a>
+</p>
+<p>&nbsp;<img align="right" <a href="https://rssread.tk"><img src="banner.png"  height="200" alt="sche11 Banner"></a>
 </p>
 
 <p align="center">
