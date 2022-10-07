@@ -35,6 +35,7 @@
 - [ギガアイシテル - レキシ](https://music.163.com/#/song?id=1477685157)
 - [友よ ～ この先もずっと・・・ - ケツメイシ](https://music.163.com/#/song?id=407485521)
 <!-- BLOG-POST-LIST:END -->
+<details>
   
 <details>
   <summary>Github Public Stats :computer:</summary>
