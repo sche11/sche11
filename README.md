@@ -25,8 +25,6 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
-<details>
-  <summary>like music :computer:</summary>
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
 - [一路逆风 - G.E.M.邓紫棋](https://music.163.com/#/song?id=36103237)
