@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats" />
-<img align="right" width=430px alt="Unicorn" src="banner.png" /><p>
+<img align="right" width=400px alt="Unicorn" src="banner.png" /><p>
 
 
 <p align="center">
