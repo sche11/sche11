@@ -35,10 +35,10 @@
 <!-- BLOG-POST-LIST:END -->
    
 <details>
-<summary> <b>📊 Weekly Stats</b> </summary>
+<summary> <b>📊 Weekly Stats</b> </summary><br>
 
 <!--START_SECTION:waka-->
-<br>
+
 **🐱 My Github Data** 
 <br>
 > 🏆 357 Contributions in the Year 2020
