@@ -1,6 +1,6 @@
 name: Blog Posts
 
-
+on: workflow_dispatch
 
 jobs:
   update-readme-with-blog:
