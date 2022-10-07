@@ -44,12 +44,9 @@
 
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary>
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208061%20lines%20of%20code-blue)
-
 **🐱 My Github Data** 
-
 > 🏆 357 Contributions in the Year 2020
  > 
 > 📦 147.2 kB Used in Github's Storage 
@@ -59,17 +56,7 @@
 > 📜 33 Public Repositories
  > 
 > 🔑 3 Private Repositories 
-
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Parply/Parply/master/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
 </details>
  
 <details>
