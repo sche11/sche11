@@ -41,7 +41,6 @@
 <summary> <b>📊 Weekly Stats</b> </summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208061%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -62,7 +61,7 @@
 <details>
 <summary> <b>📫 Contact me </b></summary>
 <p align="center">
-  
+<br>  
  <a href="https://twitter.com/shreyaaaaaaaaa_">
   <img align="left" alt="Shreya's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
