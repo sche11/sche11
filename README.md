@@ -16,9 +16,9 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [旅行者们好呀！今天为大家介绍的角色是祖拜尔剧场的知名舞者——妮露。一起来看看吧~](https://t.bilibili.com/714163554378317874)
-- [Doodle 04 画了@Ike_Official](https://t.bilibili.com/714160539327004722)
-- [互动抽奖 #原神# #妮露# #曼舞流连# 《原神》妮露角色PV——「曼舞流连」现已发布~ https://www.bilibili.com/video/BV1NP411J7KM 对妮露来说，同台表演的伙伴，...](https://t.bilibili.com/714160504944197651)
-- [抽完了恰饭动态~ 这波送出去了好多50元[给心心] 感觉一部分指挥官能买1.5个月卡了呢~[doge]](https://t.bilibili.com/714158404729307145)
-- [恭喜@二狗子又笑了呐 @账号已注销 中奖。 记得查看私信哦[吃瓜]](https://t.bilibili.com/714157988097556505)
+- [一路逆风 - G.E.M.邓紫棋](https://music.163.com/#/song?id=36103237)
+- [寂寞的恋人啊 - 莫文蔚](https://music.163.com/#/song?id=277586)
+- [猫じゃらし - RADWIMPS](https://music.163.com/#/song?id=1437176263)
+- [ギガアイシテル - レキシ](https://music.163.com/#/song?id=1477685157)
+- [友よ ～ この先もずっと・・・ - ケツメイシ](https://music.163.com/#/song?id=407485521)
 <!-- BLOG-POST-LIST:END -->
