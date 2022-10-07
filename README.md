@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--add data plugins-->
-<!img src="https://github-readme-stats.vercel.app/api?username=sche11&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
+![sche11's GitHub stats](https://github-readme-stats.vercel.app/api?username=sche11)
 
 <!--add most used language tags-->
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
