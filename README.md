@@ -1,12 +1,17 @@
 <h1 align="center">Hi, I'm <a href="https://rssread.tk">sch11</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats" />
 <img align="right" width=400px alt="Unicorn" src="banner.png" /><p>
 
+<br>
+<details>
+  <summary>Github Public Stats :computer:</summary>
+<a href="https://github.com/LexxFade?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexxFade&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
+</a>
+<a href="https://github.com/LexxFade?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LexxFade&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Sasha's GitHub Stats" />
+</a>
 
 <p align="center">
   <strong><a href="https://rssread.tk">Official Website</a></strong> |
