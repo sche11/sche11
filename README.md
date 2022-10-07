@@ -1,20 +1,20 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <a href="https://rssread.tk"><img src="banner.png" alt="sche11 Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">sch11</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://rssread.tk">sch11</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
+  <a href="https://github.com/edisonlee55"><img src="https://github-readme-stats.vercel.app/api?username=sche11&hide_border=true&show_icons=true" alt="sche11's github stats"></a>
 </p>
 
 <p align="center">
-  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
+  <strong><a href="https://rssread.tk">Official Website</a></strong> |
+  <strong><a href="https://rssread.tk">Twitter</a></strong> |
+  <strong><a href="https://rssread.tk">Discord</a></strong> |
+  <strong><a href="https://rssread.tk">LinkedIn</a></strong> |
+  <strong><a href="https://rssread.tk">Twitch</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
