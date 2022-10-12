@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [Say Something - A Great Big World](https://music.163.com/#/song?id=28208046)
-- [就算最好的世界已经倾倒 - 原子邦妮](https://music.163.com/#/song?id=1412644648)
-- [波よせて - クラムボン](https://music.163.com/#/song?id=762499)
-- [一路逆风 - G.E.M.邓紫棋](https://music.163.com/#/song?id=36103237)
-- [寂寞的恋人啊 - 莫文蔚](https://music.163.com/#/song?id=277586)
+- [暗淡的是你曾温柔的小动作 - 太一](https://music.163.com/#/song?id=552142155)
+- [若把你 - Kirsty刘瑾睿](https://music.163.com/#/song?id=865632948)
+- [玫瑰少年·2022 - WiFi歪歪](https://music.163.com/#/song?id=1947775642)
+- [谁会被吻 &lpar;天气说变冷就变冷&rpar; - Lil Jet](https://music.163.com/#/song?id=1987986734)
+- [ディスコミュ星人 - ナナヲアカリ](https://music.163.com/#/song?id=866049102)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
