@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [篇章 - 张韶涵/王赫野](https://music.163.com/#/song?id=1943043408)
+- [小手拉大手 - 林宝馨](https://music.163.com/#/song?id=1979977609)
+- [我要的·2022 - 旺仔小乔/杀不死Subs](https://music.163.com/#/song?id=1971659843)
+- [cry - 日向文](https://music.163.com/#/song?id=484249936)
 - [暗淡的是你曾温柔的小动作 - 太一](https://music.163.com/#/song?id=552142155)
-- [若把你 - Kirsty刘瑾睿](https://music.163.com/#/song?id=865632948)
-- [玫瑰少年·2022 - WiFi歪歪](https://music.163.com/#/song?id=1947775642)
-- [谁会被吻 &lpar;天气说变冷就变冷&rpar; - Lil Jet](https://music.163.com/#/song?id=1987986734)
-- [ディスコミュ星人 - ナナヲアカリ](https://music.163.com/#/song?id=866049102)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
