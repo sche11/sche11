@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [悪魔の子 - ヒグチアイ](https://music.163.com/#/song?id=1910623420)
 - [篇章 - 张韶涵/王赫野](https://music.163.com/#/song?id=1943043408)
 - [小手拉大手 - 林宝馨](https://music.163.com/#/song?id=1979977609)
 - [我要的·2022 - 旺仔小乔/杀不死Subs](https://music.163.com/#/song?id=1971659843)
 - [cry - 日向文](https://music.163.com/#/song?id=484249936)
-- [暗淡的是你曾温柔的小动作 - 太一](https://music.163.com/#/song?id=552142155)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
