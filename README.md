@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [你好前任 - 尤超白](https://music.163.com/#/song?id=1332307281)
+- [Galway Girl - Ed Sheeran](https://music.163.com/#/song?id=460043704)
+- [外滩十八号 - 旺仔小乔/WiFi歪歪](https://music.163.com/#/song?id=1982627346)
 - [悪魔の子 - ヒグチアイ](https://music.163.com/#/song?id=1910623420)
 - [篇章 - 张韶涵/王赫野](https://music.163.com/#/song?id=1943043408)
-- [小手拉大手 - 林宝馨](https://music.163.com/#/song?id=1979977609)
-- [我要的·2022 - 旺仔小乔/杀不死Subs](https://music.163.com/#/song?id=1971659843)
-- [cry - 日向文](https://music.163.com/#/song?id=484249936)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
