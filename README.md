@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [学戏 - 徐良](https://music.163.com/#/song?id=1379837697)
+- [HOME - 清水翔太](https://music.163.com/#/song?id=30621133)
+- [Shivers - Ed Sheeran](https://music.163.com/#/song?id=1885131100)
+- [チントンシャン! - ももいろクローバーZ](https://music.163.com/#/song?id=551339403)
 - [你好前任 - 尤超白](https://music.163.com/#/song?id=1332307281)
-- [Galway Girl - Ed Sheeran](https://music.163.com/#/song?id=460043704)
-- [外滩十八号 - 旺仔小乔/WiFi歪歪](https://music.163.com/#/song?id=1982627346)
-- [悪魔の子 - ヒグチアイ](https://music.163.com/#/song?id=1910623420)
-- [篇章 - 张韶涵/王赫野](https://music.163.com/#/song?id=1943043408)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
