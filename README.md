@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Friends - Ed Sheeran](https://music.163.com/#/song?id=28977802)
+- [Edelweiss - The Innocence Mission](https://music.163.com/#/song?id=21935138)
+- [Legends Never Die - Against the Current](https://music.163.com/#/song?id=506196018)
 - [学戏 - 徐良](https://music.163.com/#/song?id=1379837697)
 - [HOME - 清水翔太](https://music.163.com/#/song?id=30621133)
-- [Shivers - Ed Sheeran](https://music.163.com/#/song?id=1885131100)
-- [チントンシャン! - ももいろクローバーZ](https://music.163.com/#/song?id=551339403)
-- [你好前任 - 尤超白](https://music.163.com/#/song?id=1332307281)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
