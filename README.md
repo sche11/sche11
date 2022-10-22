@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [For キミに贈る歌 &lpar;For 送给你的歌&rpar; - 菅原纱由理（THE SxPLAY）](https://music.163.com/#/song?id=1312166691)
+- [KICK BACK - 米津玄師](https://music.163.com/#/song?id=1986803568)
 - [花に亡霊 - 鹿乃](https://music.163.com/#/song?id=1484837037)
 - [Friends - Ed Sheeran](https://music.163.com/#/song?id=28977802)
 - [Edelweiss - The Innocence Mission](https://music.163.com/#/song?id=21935138)
-- [Legends Never Die - Against the Current](https://music.163.com/#/song?id=506196018)
-- [学戏 - 徐良](https://music.163.com/#/song?id=1379837697)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
