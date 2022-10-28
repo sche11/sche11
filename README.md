@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [霞がついてくる - ヰ世界情緒](https://music.163.com/#/song?id=1907752043)
+- [デスぺレート - TeddyLoid/ギガP/LOLUET](https://music.163.com/#/song?id=1977959306)
+- [Overdose - なとり](https://music.163.com/#/song?id=1974104377)
+- [Zero Gravity - I Don&#39;t Like Mondays.](https://music.163.com/#/song?id=1366515390)
 - [Could I Love You Any More - Reneé Dominique/Jason Mraz](https://music.163.com/#/song?id=1368707835)
-- [For キミに贈る歌 &lpar;For 送给你的歌&rpar; - 菅原纱由理（THE SxPLAY）](https://music.163.com/#/song?id=1312166691)
-- [KICK BACK - 米津玄師](https://music.163.com/#/song?id=1986803568)
-- [花に亡霊 - 鹿乃](https://music.163.com/#/song?id=1484837037)
-- [Friends - Ed Sheeran](https://music.163.com/#/song?id=28977802)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
