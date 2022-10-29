@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [e of s - mizuki &lpar;瑞葵&rpar;/SawanoHiroyuki[nZk]](https://music.163.com/#/song?id=507116415)
+- [恋 - 星野源](https://music.163.com/#/song?id=432821964)
+- [50 Ways to Say Goodbye - Train](https://music.163.com/#/song?id=36992901)
+- [白鸟过河滩 - VIOMEAT](https://music.163.com/#/song?id=1956596116)
 - [霞がついてくる - ヰ世界情緒](https://music.163.com/#/song?id=1907752043)
-- [デスぺレート - TeddyLoid/ギガP/LOLUET](https://music.163.com/#/song?id=1977959306)
-- [Overdose - なとり](https://music.163.com/#/song?id=1974104377)
-- [Zero Gravity - I Don&#39;t Like Mondays.](https://music.163.com/#/song?id=1366515390)
-- [Could I Love You Any More - Reneé Dominique/Jason Mraz](https://music.163.com/#/song?id=1368707835)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
