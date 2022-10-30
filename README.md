@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Love Yourself - Justin Bieber](https://music.163.com/#/song?id=36496695)
 - [e of s - mizuki &lpar;瑞葵&rpar;/SawanoHiroyuki[nZk]](https://music.163.com/#/song?id=507116415)
 - [恋 - 星野源](https://music.163.com/#/song?id=432821964)
 - [50 Ways to Say Goodbye - Train](https://music.163.com/#/song?id=36992901)
 - [白鸟过河滩 - VIOMEAT](https://music.163.com/#/song?id=1956596116)
-- [霞がついてくる - ヰ世界情緒](https://music.163.com/#/song?id=1907752043)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
