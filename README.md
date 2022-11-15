@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [心脏钥匙 - VIOMEAT](https://music.163.com/#/song?id=1876718714)
 - [灰色鹦鹉 - ChiliChill/洛天依](https://music.163.com/#/song?id=1994065859)
 - [リビングデッド - amazarashi](https://music.163.com/#/song?id=1322354990)
 - [Fly On the Wall - Thousand Foot Krutch](https://music.163.com/#/song?id=2009830)
 - [Love Yourself - Justin Bieber](https://music.163.com/#/song?id=36496695)
-- [e of s - mizuki &lpar;瑞葵&rpar;/SawanoHiroyuki[nZk]](https://music.163.com/#/song?id=507116415)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
