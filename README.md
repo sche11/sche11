@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [彩色翅膀·2022 - Sasablue](https://music.163.com/#/song?id=1992034569)
+- [チキチキバンバン - QUEENDOM](https://music.163.com/#/song?id=1947940492)
+- [クネクネ &lpar;Wiggle Wiggle&rpar; - Raon Lee](https://music.163.com/#/song?id=1939556714)
+- [素晴らしき人生 - 平井 大](https://music.163.com/#/song?id=1866218527)
 - [武家坡2021 - 龍猛寺寬度](https://music.163.com/#/song?id=1891431677)
-- [心脏钥匙 - VIOMEAT](https://music.163.com/#/song?id=1876718714)
-- [灰色鹦鹉 - ChiliChill/洛天依](https://music.163.com/#/song?id=1994065859)
-- [リビングデッド - amazarashi](https://music.163.com/#/song?id=1322354990)
-- [Fly On the Wall - Thousand Foot Krutch](https://music.163.com/#/song?id=2009830)
 <!-- BLOG-POST-LIST:END -->
    
 <details>
