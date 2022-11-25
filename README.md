@@ -40,6 +40,8 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
+[![Netease recently played](https://netease-recent-profile.vercel.app/?id=389293423&cache=3600&title=最近在听&show_percent=1)](https://netease-recent-profile.vercel.app/?id=389293423&cache=3600&title=最近在听&show_percent=1)
+
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
 - [彩色翅膀·2022 - Sasablue](https://music.163.com/#/song?id=1992034569)
