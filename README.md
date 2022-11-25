@@ -49,9 +49,8 @@
 - [武家坡2021 - 龍猛寺寬度](https://music.163.com/#/song?id=1891431677)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-    [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
-    /></p>
+[![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
+
     
 <details>
 <summary> <b>📊 Weekly Stats</b> </summary><br>
