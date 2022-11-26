@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [A Sweet Rendez-vous - 塞壬唱片-MSR/ADÀI宋黛霆/Obadiah Brown-Beach/David Lin](https://music.163.com/#/song?id=1985324290)
+- [TSUNAMI - フィナーナ 竜宮](https://music.163.com/#/song?id=1955540218)
 - [彩色翅膀·2022 - Sasablue](https://music.163.com/#/song?id=1992034569)
 - [チキチキバンバン - QUEENDOM](https://music.163.com/#/song?id=1947940492)
 - [クネクネ &lpar;Wiggle Wiggle&rpar; - Raon Lee](https://music.163.com/#/song?id=1939556714)
-- [素晴らしき人生 - 平井 大](https://music.163.com/#/song?id=1866218527)
-- [武家坡2021 - 龍猛寺寬度](https://music.163.com/#/song?id=1891431677)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
