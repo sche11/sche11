@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Whatever It Takes - Imagine Dragons](https://music.163.com/#/song?id=1470907433)
+- [SHINY SCARS &lpar;深潜在你的蓝 ENG VER.&rpar; - 袁娅维TIA RAY](https://music.163.com/#/song?id=1998919331)
+- [Teeth - 5 Seconds of Summer](https://music.163.com/#/song?id=1386002493)
+- [Phoenix - Cailin Russo/Chrissy Costanza](https://music.163.com/#/song?id=1396151812)
 - [Be Crazy For Me - Klepejape](https://music.163.com/#/song?id=1948919934)
-- [AliVe - AliA](https://music.163.com/#/song?id=1349888477)
-- [千本桜 - Ado](https://music.163.com/#/song?id=1907423956)
-- [Regression - 阿云嘎/HOYO-MiX](https://music.163.com/#/song?id=1913478990)
-- [一番星 - タイナカ彩智](https://music.163.com/#/song?id=658318)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
