@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Your Star - 塞壬唱片-MSR/DJ Okawari/Stephanie](https://music.163.com/#/song?id=1953860839)
 - [Whatever It Takes - Imagine Dragons](https://music.163.com/#/song?id=1470907433)
 - [SHINY SCARS &lpar;深潜在你的蓝 ENG VER.&rpar; - 袁娅维TIA RAY](https://music.163.com/#/song?id=1998919331)
 - [Teeth - 5 Seconds of Summer](https://music.163.com/#/song?id=1386002493)
 - [Phoenix - Cailin Russo/Chrissy Costanza](https://music.163.com/#/song?id=1396151812)
-- [Be Crazy For Me - Klepejape](https://music.163.com/#/song?id=1948919934)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
