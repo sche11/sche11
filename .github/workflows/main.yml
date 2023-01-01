@@ -17,4 +17,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "https://rssread.tk/ncm/playlist/552061404"
+          feed_list: "https://readrss.cf/ncm/playlist/552061404"
