@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [梦里花 - 苏星婕](https://music.163.com/#/song?id=2005574298)
-- [Sdorica &quot;the Story Unfolds&quot; - Hoskey/RayRay](https://music.163.com/#/song?id=1445139782)
-- [Cure For Me - AURORA](https://music.163.com/#/song?id=1859515946)
-- [Your Star - 塞壬唱片-MSR/DJ Okawari/Stephanie](https://music.163.com/#/song?id=1953860839)
-- [Whatever It Takes - Imagine Dragons](https://music.163.com/#/song?id=1470907433)
+- [うまぴょい伝説 - 和氣あず未/高野麻里佳/上田瞳/大西沙織/衣川里佳/星谷美緒/土師亜文/石見舞菜香/渡部優衣/三宅麻理恵/久保田ひかり/のぐちゆり/会沢紗弥/大西...](https://music.163.com/#/song?id=1981787077)
+- [ギターと孤独と蒼い惑星 - 結束バンド](https://music.163.com/#/song?id=1991012773)
+- [恋愛脳 - ナナヲアカリ](https://music.163.com/#/song?id=1958186873)
+- [Did you see the sunrise? - 超学生](https://music.163.com/#/song?id=1988825288)
+- [drop pop candy &lpar;feat. 小豆沢こはね, 白石杏, 鏡音リン &amp; 巡音ルカ&rpar; - ギガP/Vivid BAD SQUAD/鏡音リン/巡音ルカ](https://music.163.com/#/song?id=1952528396)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
