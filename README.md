@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [忘れてやらない - 結束バンド](https://music.163.com/#/song?id=2003496467)
+- [你就是远方 - 就是南方凯（项学凯）](https://music.163.com/#/song?id=2007281783)
 - [Flop Around - 伊藤美来/竹達彩奈/高橋李依/金元寿子/高野麻里佳](https://music.163.com/#/song?id=2003647827)
 - [人間と獣の境界 - 凋叶棕](https://music.163.com/#/song?id=2011888142)
 - [うまぴょい伝説 - 和氣あず未/高野麻里佳/上田瞳/大西沙織/衣川里佳/星谷美緒/土師亜文/石見舞菜香/渡部優衣/三宅麻理恵/久保田ひかり/のぐちゆり/会沢紗弥/大西...](https://music.163.com/#/song?id=1981787077)
-- [ギターと孤独と蒼い惑星 - 結束バンド](https://music.163.com/#/song?id=1991012773)
-- [恋愛脳 - ナナヲアカリ](https://music.163.com/#/song?id=1958186873)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
