@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [リップ - 鈴木みのり](https://music.163.com/#/song?id=1952191507)
+- [深海少女 -deep sea girl- &lpar;feat. 初音ミク&rpar; - ゆうゆ/初音ミク](https://music.163.com/#/song?id=2006735434)
+- [星になる &lpar;feat. 倚水&rpar; - Islet/倚水](https://music.163.com/#/song?id=2002970862)
 - [踩空的梦 - 封茗囧菌](https://music.163.com/#/song?id=2012263698)
 - [一万次悲伤 - 逃跑计划](https://music.163.com/#/song?id=25706279)
-- [忘れてやらない - 結束バンド](https://music.163.com/#/song?id=2003496467)
-- [你就是远方 - 就是南方凯（项学凯）](https://music.163.com/#/song?id=2007281783)
-- [Flop Around - 伊藤美来/竹達彩奈/高橋李依/金元寿子/高野麻里佳](https://music.163.com/#/song?id=2003647827)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
