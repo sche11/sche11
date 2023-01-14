@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [リップ - 鈴木みのり](https://music.163.com/#/song?id=1952191507)
-- [深海少女 -deep sea girl- &lpar;feat. 初音ミク&rpar; - ゆうゆ/初音ミク](https://music.163.com/#/song?id=2006735434)
-- [星になる &lpar;feat. 倚水&rpar; - Islet/倚水](https://music.163.com/#/song?id=2002970862)
-- [踩空的梦 - 封茗囧菌](https://music.163.com/#/song?id=2012263698)
-- [一万次悲伤 - 逃跑计划](https://music.163.com/#/song?id=25706279)
+- [每当有流星划过夜空（星尘Infinity） - Snail_蜗牛P/星尘](https://music.163.com/#/song?id=1921761273)
+- [眩耀 - 珀](https://music.163.com/#/song?id=1937146421)
+- [シュガー・シュガー・スパイス - 栗林みな実](https://music.163.com/#/song?id=1993449200)
+- [Believe - みさき](https://music.163.com/#/song?id=1965369774)
+- [Talking to the Rain（星尘Infinity） - Snail_蜗牛P/星尘](https://music.163.com/#/song?id=1947421379)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
