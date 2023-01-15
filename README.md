@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [每当有流星划过夜空（星尘Infinity） - Snail_蜗牛P/星尘](https://music.163.com/#/song?id=1921761273)
-- [眩耀 - 珀](https://music.163.com/#/song?id=1937146421)
-- [シュガー・シュガー・スパイス - 栗林みな実](https://music.163.com/#/song?id=1993449200)
+- [ネリヤカナヤ ～美ら奄美～ - ReoNa](https://music.163.com/#/song?id=1961574613)
+- [藍悼花 &lpar;feat. Lucia&rpar; - 酔シグレ/Lucia](https://music.163.com/#/song?id=1947095105)
 - [Believe - みさき](https://music.163.com/#/song?id=1965369774)
-- [Talking to the Rain（星尘Infinity） - Snail_蜗牛P/星尘](https://music.163.com/#/song?id=1947421379)
+- [あのね。 - あれくん/『ユイカ』](https://music.163.com/#/song?id=1942631186)
+- [每当有流星划过夜空（星尘Infinity） - Snail_蜗牛P/星尘](https://music.163.com/#/song?id=1921761273)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
