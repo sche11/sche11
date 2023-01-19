@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [近尘烟 - 塞壬唱片-MSR/Erik Castro](https://music.163.com/#/song?id=2013746250)
 - [SPiCa - 米白](https://music.163.com/#/song?id=1942294520)
 - [ネリヤカナヤ ～美ら奄美～ - ReoNa](https://music.163.com/#/song?id=1961574613)
 - [藍悼花 &lpar;feat. Lucia&rpar; - 酔シグレ/Lucia](https://music.163.com/#/song?id=1947095105)
 - [Believe - みさき](https://music.163.com/#/song?id=1965369774)
-- [あのね。 - あれくん/『ユイカ』](https://music.163.com/#/song?id=1942631186)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
