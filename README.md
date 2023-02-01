@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [YUBIKIRI-GENMAN - Mili](https://music.163.com/#/song?id=29418291)
+- [健やかDE居たい - 八木海莉](https://music.163.com/#/song?id=2010950033)
+- [Puppet in the Dark &lpar;PartⅡ : Buried Away&rpar; - Vivienne](https://music.163.com/#/song?id=33211202)
+- [Who are - 葉つつゆ](https://music.163.com/#/song?id=2012157435)
 - [おやすみモノクローム - 倚水](https://music.163.com/#/song?id=1956766863)
-- [近尘烟 - 塞壬唱片-MSR/Erik Castro](https://music.163.com/#/song?id=2013746250)
-- [SPiCa - 米白](https://music.163.com/#/song?id=1942294520)
-- [ネリヤカナヤ ～美ら奄美～ - ReoNa](https://music.163.com/#/song?id=1961574613)
-- [藍悼花 &lpar;feat. Lucia&rpar; - 酔シグレ/Lucia](https://music.163.com/#/song?id=1947095105)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
