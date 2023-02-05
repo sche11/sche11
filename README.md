@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [YUBIKIRI-GENMAN - Mili](https://music.163.com/#/song?id=29418291)
-- [健やかDE居たい - 八木海莉](https://music.163.com/#/song?id=2010950033)
-- [Puppet in the Dark &lpar;PartⅡ : Buried Away&rpar; - Vivienne](https://music.163.com/#/song?id=33211202)
-- [Who are - 葉つつゆ](https://music.163.com/#/song?id=2012157435)
-- [おやすみモノクローム - 倚水](https://music.163.com/#/song?id=1956766863)
+- [レイラ - 40mP/miri](https://music.163.com/#/song?id=2000633875)
+- [小城夏天 - LBI利比](https://music.163.com/#/song?id=1934251776)
+- [カトラリー &lpar;feat. 宵崎奏, 朝比奈まふゆ &amp; 初音ミク&rpar; - 神山羊/25時、ナイトコードで。/初音ミク](https://music.163.com/#/song?id=1935704610)
+- [シリウスの心臓 - ヰ世界情緒](https://music.163.com/#/song?id=1907751320)
+- [罗生门（Follow） - 梨冻紧/Wiz_H张子豪](https://music.163.com/#/song?id=1456890009)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
