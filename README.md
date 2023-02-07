@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [それを愛と呼ぶなら - Uru](https://music.163.com/#/song?id=1947903891)
+- [melt - SennaRin](https://music.163.com/#/song?id=1928722003)
+- [雪冴ゆる - あたらよ](https://music.163.com/#/song?id=2008006028)
 - [シネマ &lpar;feat. 小豆沢こはね&amp;白石杏&amp;東雲彰人&amp;青柳冬弥&amp;KAITO&rpar; - Ayase/Vivid BAD SQUAD/KAITO](https://music.163.com/#/song?id=1894065144)
 - [レイラ - 40mP/miri](https://music.163.com/#/song?id=2000633875)
-- [小城夏天 - LBI利比](https://music.163.com/#/song?id=1934251776)
-- [カトラリー &lpar;feat. 宵崎奏, 朝比奈まふゆ &amp; 初音ミク&rpar; - 神山羊/25時、ナイトコードで。/初音ミク](https://music.163.com/#/song?id=1935704610)
-- [シリウスの心臓 - ヰ世界情緒](https://music.163.com/#/song?id=1907751320)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
