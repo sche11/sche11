@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [小小 - 梨香JZH](https://music.163.com/#/song?id=2013152190)
+- [River - Anonymouz](https://music.163.com/#/song?id=2009677539)
 - [それを愛と呼ぶなら - Uru](https://music.163.com/#/song?id=1947903891)
 - [melt - SennaRin](https://music.163.com/#/song?id=1928722003)
 - [雪冴ゆる - あたらよ](https://music.163.com/#/song?id=2008006028)
-- [シネマ &lpar;feat. 小豆沢こはね&amp;白石杏&amp;東雲彰人&amp;青柳冬弥&amp;KAITO&rpar; - Ayase/Vivid BAD SQUAD/KAITO](https://music.163.com/#/song?id=1894065144)
-- [レイラ - 40mP/miri](https://music.163.com/#/song?id=2000633875)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
