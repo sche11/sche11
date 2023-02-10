@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [dust - SennaRin](https://music.163.com/#/song?id=1920746659)
+- [Lolita Bonita - 當山みれい](https://music.163.com/#/song?id=2016539926)
 - [小小 - 梨香JZH](https://music.163.com/#/song?id=2013152190)
 - [River - Anonymouz](https://music.163.com/#/song?id=2009677539)
 - [それを愛と呼ぶなら - Uru](https://music.163.com/#/song?id=1947903891)
-- [melt - SennaRin](https://music.163.com/#/song?id=1928722003)
-- [雪冴ゆる - あたらよ](https://music.163.com/#/song?id=2008006028)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
