@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [dust - SennaRin](https://music.163.com/#/song?id=1920746659)
-- [Lolita Bonita - 當山みれい](https://music.163.com/#/song?id=2016539926)
-- [小小 - 梨香JZH](https://music.163.com/#/song?id=2013152190)
-- [River - Anonymouz](https://music.163.com/#/song?id=2009677539)
-- [それを愛と呼ぶなら - Uru](https://music.163.com/#/song?id=1947903891)
+- [當我沈入海底時你接住了我 - 情境遊戲/陳亭潔](https://music.163.com/#/song?id=1920324315)
+- [让浪漫作主 - 蔡健雅](https://music.163.com/#/song?id=1931539797)
+- [Moon Halo - 茶理理/TetraCalyx/Hanser/HOYO-MiX](https://music.163.com/#/song?id=1859652717)
+- [在你的身边 - 盛哲](https://music.163.com/#/song?id=475479888)
+- [我的名字 - 焦迈奇](https://music.163.com/#/song?id=554241732)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
