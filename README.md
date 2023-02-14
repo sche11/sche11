@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [當我沈入海底時你接住了我 - 情境遊戲/陳亭潔](https://music.163.com/#/song?id=1920324315)
-- [让浪漫作主 - 蔡健雅](https://music.163.com/#/song?id=1931539797)
-- [Moon Halo - 茶理理/TetraCalyx/Hanser/HOYO-MiX](https://music.163.com/#/song?id=1859652717)
-- [在你的身边 - 盛哲](https://music.163.com/#/song?id=475479888)
-- [我的名字 - 焦迈奇](https://music.163.com/#/song?id=554241732)
+- [ひとりぼっち東京 - 結束バンド](https://music.163.com/#/song?id=1984541377)
+- [outcry - あたらよ](https://music.163.com/#/song?id=1929062245)
+- [Idol - 當山みれい](https://music.163.com/#/song?id=2016539117)
+- [青春コンプレックス - 結束バンド](https://music.163.com/#/song?id=1984543951)
+- [フィナーレ。 - eill](https://music.163.com/#/song?id=1972395036)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
