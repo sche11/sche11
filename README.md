@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [璃云月海 - 宴宁/鹿喑kana/XY大甘蔗/杜冥鸦](https://music.163.com/#/song?id=1913819637)
 - [ひとりぼっち東京 - 結束バンド](https://music.163.com/#/song?id=1984541377)
 - [outcry - あたらよ](https://music.163.com/#/song?id=1929062245)
 - [Idol - 當山みれい](https://music.163.com/#/song?id=2016539117)
 - [青春コンプレックス - 結束バンド](https://music.163.com/#/song?id=1984543951)
-- [フィナーレ。 - eill](https://music.163.com/#/song?id=1972395036)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
