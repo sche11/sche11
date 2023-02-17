@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Floating Star - Kirara Magic/Shion Lee](https://music.163.com/#/song?id=1830190033)
+- [Summer Time（Japanese Version） - 朱彦安/夏野Natsuno](https://music.163.com/#/song?id=1877205088)
 - [Time Stop - BlackDD/CyTeam/PICK/知晏](https://music.163.com/#/song?id=1992712131)
 - [Letting Go - 蔡健雅](https://music.163.com/#/song?id=208891)
 - [かたわれ時 - RADWIMPS](https://music.163.com/#/song?id=426881502)
-- [璃云月海 - 宴宁/鹿喑kana/XY大甘蔗/杜冥鸦](https://music.163.com/#/song?id=1913819637)
-- [ひとりぼっち東京 - 結束バンド](https://music.163.com/#/song?id=1984541377)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
