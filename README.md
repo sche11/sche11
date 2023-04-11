@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [Head In The Clouds - Hayd](https://music.163.com/#/song?id=1878812258)
-- [Ending - Nyarons/Dialock](https://music.163.com/#/song?id=1995633603)
-- [Good Dream - Kirara Magic](https://music.163.com/#/song?id=1934560185)
-- [戀の歌 - 伊藤彩沙](https://music.163.com/#/song?id=1928445582)
-- [虹の彼方に - ReoNa](https://music.163.com/#/song?id=1346105099)
+- [Boyfriend - Nightcore - 5pb酱](https://music.163.com/#/song?id=1917678843)
+- [月牙湾 - F.I.R.](https://music.163.com/#/song?id=354352)
+- [你从未离去 - 旺仔小乔](https://music.163.com/#/song?id=1919147134)
+- [记·念 - 不是花火呀](https://music.163.com/#/song?id=1949119429)
+- [願い~あの頃のキミへ~ - 當山みれい](https://music.163.com/#/song?id=488388942)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
