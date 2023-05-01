@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Morning Dew - 塞壬唱片-MSR/Adam Gubman/Nini Guerry](https://music.163.com/#/song?id=2042849489)
 - [ぼうやの夢よ - 高橋李依](https://music.163.com/#/song?id=426501184)
 - [奔向天际线 - Akie秋绘](https://music.163.com/#/song?id=2008353538)
 - [Darlin&#39; - BENI](https://music.163.com/#/song?id=22711357)
 - [アイドル - YOASOBI](https://music.163.com/#/song?id=2034742057)
-- [坐忘道 - 王朝1982](https://music.163.com/#/song?id=2009755016)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
