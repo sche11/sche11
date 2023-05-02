@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [Morning Dew - 塞壬唱片-MSR/Adam Gubman/Nini Guerry](https://music.163.com/#/song?id=2042849489)
-- [ぼうやの夢よ - 高橋李依](https://music.163.com/#/song?id=426501184)
-- [奔向天际线 - Akie秋绘](https://music.163.com/#/song?id=2008353538)
-- [Darlin&#39; - BENI](https://music.163.com/#/song?id=22711357)
-- [アイドル - YOASOBI](https://music.163.com/#/song?id=2034742057)
+- [我从人间走过 - 瞳荧/十八薰](https://music.163.com/#/song?id=1911690548)
+- [你相信平行时空吗 - 司南](https://music.163.com/#/song?id=1929385204)
+- [o_O - 庄周/MotordXMotorola/hoho](https://music.163.com/#/song?id=1878741629)
+- [带我去很远地方 - 黄霄雲](https://music.163.com/#/song?id=1866185395)
+- [仗着 - 陈壹千](https://music.163.com/#/song?id=1985705551)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
