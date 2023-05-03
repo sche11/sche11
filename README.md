@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [The cure - 塞壬唱片-MSR/Obadiah Brown-Beach/Denney](https://music.163.com/#/song?id=2042920491)
+- [Dormant Craving - 塞壬唱片-MSR/Erik Castro/MINDIA](https://music.163.com/#/song?id=2042872786)
 - [我从人间走过 - 瞳荧/十八薰](https://music.163.com/#/song?id=1911690548)
 - [你相信平行时空吗 - 司南](https://music.163.com/#/song?id=1929385204)
 - [o_O - 庄周/MotordXMotorola/hoho](https://music.163.com/#/song?id=1878741629)
-- [带我去很远地方 - 黄霄雲](https://music.163.com/#/song?id=1866185395)
-- [仗着 - 陈壹千](https://music.163.com/#/song?id=1985705551)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
