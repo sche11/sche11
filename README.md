@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [summer. - 8bite/Lizard](https://music.163.com/#/song?id=1960123993)
+- [B∀LK - SawanoHiroyuki[nZk]/suis](https://music.163.com/#/song?id=2009678542)
+- [八月のスーベニア - 水瀬いのり](https://music.163.com/#/song?id=1958684489)
 - [平凡之路 - 朴树](https://music.163.com/#/song?id=28815250)
 - [法螺話 - 理芽](https://music.163.com/#/song?id=2001618064)
-- [会いたい - 鹿乃](https://music.163.com/#/song?id=1484830970)
-- [深淵 - ヰ世界情緒/花譜](https://music.163.com/#/song?id=2033877061)
-- [邂逅 - 花譜](https://music.163.com/#/song?id=2026787183)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
