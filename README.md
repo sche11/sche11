@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [summer. - 8bite/Lizard](https://music.163.com/#/song?id=1960123993)
-- [B∀LK - SawanoHiroyuki[nZk]/suis](https://music.163.com/#/song?id=2009678542)
-- [八月のスーベニア - 水瀬いのり](https://music.163.com/#/song?id=1958684489)
-- [平凡之路 - 朴树](https://music.163.com/#/song?id=28815250)
-- [法螺話 - 理芽](https://music.163.com/#/song?id=2001618064)
+- [誰も彼も何処も何も知らない - ASOBI同盟](https://music.163.com/#/song?id=2033099768)
+- [Limited Edition - Nina Nesbitt](https://music.163.com/#/song?id=1949263913)
+- [あたらしい &lpar;feat. ラティオ・ユィリス&rpar; - Neko Hacker/ラティオ・ユィリス](https://music.163.com/#/song?id=2043765173)
+- [Fly High &lpar;feat. mochari&rpar; - Neko Hacker/mochari](https://music.163.com/#/song?id=2043767047)
+- [Spaceship - Neko Hacker](https://music.163.com/#/song?id=2043765174)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
