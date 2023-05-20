@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [NEWDAY - Ms.OOJA](https://music.163.com/#/song?id=32408604)
 - [Infinitely Falling - Fly By Midnight](https://music.163.com/#/song?id=2025563163)
 - [偷腥 - Hanser](https://music.163.com/#/song?id=1982798730)
 - [誰も彼も何処も何も知らない - ASOBI同盟](https://music.163.com/#/song?id=2033099768)
 - [Limited Edition - Nina Nesbitt](https://music.163.com/#/song?id=1949263913)
-- [あたらしい &lpar;feat. ラティオ・ユィリス&rpar; - Neko Hacker/ラティオ・ユィリス](https://music.163.com/#/song?id=2043765173)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
