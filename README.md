@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [We Are Stars - Virginia To Vegas/Alyssa Reid](https://music.163.com/#/song?id=28612166)
 - [无条件 &lpar;Live&rpar; - 陈奕迅](https://music.163.com/#/song?id=34509411)
 - [NEWDAY - Ms.OOJA](https://music.163.com/#/song?id=32408604)
 - [Infinitely Falling - Fly By Midnight](https://music.163.com/#/song?id=2025563163)
 - [偷腥 - Hanser](https://music.163.com/#/song?id=1982798730)
-- [誰も彼も何処も何も知らない - ASOBI同盟](https://music.163.com/#/song?id=2033099768)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
