@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Ember - haju:harmonics](https://music.163.com/#/song?id=2036581671)
+- [I Remember - Justin Mylo/STRNGRS](https://music.163.com/#/song?id=1832567070)
 - [Ob-La-Di, Ob-La-Da - Gabriela Bee](https://music.163.com/#/song?id=1355167457)
 - [迷子犬と雨のビート - ASIAN KUNG-FU GENERATION](https://music.163.com/#/song?id=31649304)
 - [神様のいうとおり &lpar;TV Version&rpar; - やくしまるえつこ](https://music.163.com/#/song?id=22653685)
-- [Bloom - Dabin/Dia Frampton](https://music.163.com/#/song?id=1347227968)
-- [Before Summer - 塞壬唱片-MSR/Adam Gubman/Matilda Stray](https://music.163.com/#/song?id=2051789190)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
