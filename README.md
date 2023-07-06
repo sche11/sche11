@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [オーダーメイド &lpar;feat. 星乃一歌&amp;天馬咲希&amp;望月穂波&amp;日野森志歩&amp;巡音ルカ&rpar; - Leo/need](https://music.163.com/#/song?id=2057797338)
 - [Ember - haju:harmonics](https://music.163.com/#/song?id=2036581671)
 - [I Remember - Justin Mylo/STRNGRS](https://music.163.com/#/song?id=1832567070)
 - [Ob-La-Di, Ob-La-Da - Gabriela Bee](https://music.163.com/#/song?id=1355167457)
 - [迷子犬と雨のビート - ASIAN KUNG-FU GENERATION](https://music.163.com/#/song?id=31649304)
-- [神様のいうとおり &lpar;TV Version&rpar; - やくしまるえつこ](https://music.163.com/#/song?id=22653685)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
