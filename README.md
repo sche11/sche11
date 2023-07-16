@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [甘噛みでおねがい - ピノキオピー](https://music.163.com/#/song?id=2043149466)
+- [もしも一人残されて、世界が嘘じゃないなら - nayuta](https://music.163.com/#/song?id=475279831)
 - [ミュージックコネクター &lpar;feat. 初音ミク&rpar; - ヤバス/初音ミク](https://music.163.com/#/song?id=1968993465)
 - [ダンシンレイジークレイジーナイト &lpar;feat. 初音ミク&rpar; - ヤバス/初音ミク](https://music.163.com/#/song?id=1840429036)
 - [ラストテスタメント - ヤバス/初音ミク](https://music.163.com/#/song?id=1870592307)
-- [玩具 - V.W.P](https://music.163.com/#/song?id=2061888111)
-- [君がくれたmelody - ロザリーナ](https://music.163.com/#/song?id=1862868021)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
