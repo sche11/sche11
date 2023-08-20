@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [アンノウン・マザーグース&lpar;Live&rpar; - ヰ世界情緒](https://music.163.com/#/song?id=2033014153)
+- [風 feat. 理芽 - Guiano/理芽](https://music.163.com/#/song?id=2048603087)
+- [Bloom - Vicky宣宣](https://music.163.com/#/song?id=1954923680)
 - [アポカリプスなう - ピノキオピー](https://music.163.com/#/song?id=2072331782)
 - [回到原点 - Matzka玛斯卡](https://music.163.com/#/song?id=1487295301)
-- [Perfect Version Of Me - Vicky宣宣](https://music.163.com/#/song?id=2048362753)
-- [Misty Memory &lpar;Day Version&rpar; - 塞壬唱片-MSR/Erik Castro/Elvin Shen/David Lin/左乙](https://music.163.com/#/song?id=2070352215)
-- [Alice in 冷凍庫 - めありー/Orangestar](https://music.163.com/#/song?id=557583473)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
