@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [天亮以前说再见 - 曲肖冰](https://music.163.com/#/song?id=1336789644)
+- [albino - DUSTCELL](https://music.163.com/#/song?id=1887284874)
 - [我们被夹在云层之间 - Vicky宣宣](https://music.163.com/#/song?id=1868184523)
 - [Take Me Hand - Cécile Corbel](https://music.163.com/#/song?id=1500439504)
 - [时间更改 - 庄东茹（豆芽鱼）](https://music.163.com/#/song?id=1951925907)
-- [晚空 - 邹秋实/喧笑](https://music.163.com/#/song?id=1903978595)
-- [坎农 - 塞西尔](https://music.163.com/#/song?id=2044858935)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
