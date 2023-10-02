@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Hurtless &lpar;Acoustic&rpar; - Jada Facer](https://music.163.com/#/song?id=1932734623)
 - [曼尼！（Manny！） - 表情银行MimikBanka](https://music.163.com/#/song?id=2075875487)
 - [天亮以前说再见 - 曲肖冰](https://music.163.com/#/song?id=1336789644)
 - [albino - DUSTCELL](https://music.163.com/#/song?id=1887284874)
 - [我们被夹在云层之间 - Vicky宣宣](https://music.163.com/#/song?id=1868184523)
-- [Take Me Hand - Cécile Corbel](https://music.163.com/#/song?id=1500439504)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
