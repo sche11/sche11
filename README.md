@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [明天的烦恼交给明天 &lpar;Live&rpar; - 黄龄/沈梦辰](https://music.163.com/#/song?id=2088421589)
 - [见面就告白吧 - 庄东茹（豆芽鱼）](https://music.163.com/#/song?id=2046795480)
 - [Settle Into Ash - 塞壬唱片-MSR/Adam Gubman/Telle Smith/Sage X Price](https://music.163.com/#/song?id=2088472839)
 - [沼泽 - 晴天工作室/张德伊玲](https://music.163.com/#/song?id=1907267421)
 - [風色Letter - 水瀬いのり](https://music.163.com/#/song?id=1958689637)
-- [35°的汽水遇到0°的冰 - 一口甜](https://music.163.com/#/song?id=1956518984)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
