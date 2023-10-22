@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [ランデヴー - 三月のパンタシア](https://music.163.com/#/song?id=1424011837)
 - [中川翔子 - 中川翔子](https://music.163.com/#/song?id=2078319483)
 - [泪桥 - 伍佰 &amp; China Blue](https://music.163.com/#/song?id=156736)
 - [明天的烦恼交给明天 &lpar;Live&rpar; - 黄龄/沈梦辰](https://music.163.com/#/song?id=2088421589)
 - [见面就告白吧 - 庄东茹（豆芽鱼）](https://music.163.com/#/song?id=2046795480)
-- [Settle Into Ash - 塞壬唱片-MSR/Adam Gubman/Telle Smith/Sage X Price](https://music.163.com/#/song?id=2088472839)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
