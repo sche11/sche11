@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [下一个是谁 - Vicky宣宣](https://music.163.com/#/song?id=1993486231)
+- [Tokyo feat.iri - RADWIMPS](https://music.163.com/#/song?id=1890714539)
 - [Beautiful World &lpar;Da Capo Version&rpar; - 宇多田ヒカル](https://music.163.com/#/song?id=1824020873)
 - [夏が終わる - 微睡んでアビー](https://music.163.com/#/song?id=1874954008)
 - [101 bells ring - reche](https://music.163.com/#/song?id=2084336210)
-- [Be Kind - Marshmello/Halsey](https://music.163.com/#/song?id=1444959394)
-- [Get Your Wish &lpar;Japanese ver.&rpar; - Bao The Whale](https://music.163.com/#/song?id=2038364950)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
