@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [魔法のない世界で生きるということ - Euluca Lab.](https://music.163.com/#/song?id=1960396198)
-- [always - 早見沙織/原紗友里/鈴木みのり/田辺留依/武田羅梨沙多胡](https://music.163.com/#/song?id=523249332)
-- [さよならアンドロメダ &lpar;GAME VERSION&rpar; - 福原綾香/高橋花林/村中知](https://music.163.com/#/song?id=2020608158)
-- [アイコトバ - アイナ・ジ・エンド](https://music.163.com/#/song?id=2093235898)
-- [Blade Catcher - 塞壬唱片-MSR/Adam Gubman/Moonlist](https://music.163.com/#/song?id=2102690163)
+- [いってらっしゃい - ヒグチアイ](https://music.163.com/#/song?id=2093241816)
+- [Cosmodiver - 藍月なくる](https://music.163.com/#/song?id=2104656944)
+- [温暖的约定 - 小缘](https://music.163.com/#/song?id=2104358989)
+- [这场青春值得骄傲 - Vicky宣宣](https://music.163.com/#/song?id=1841819403)
+- [Tell me - milet](https://music.163.com/#/song?id=1420533652)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
