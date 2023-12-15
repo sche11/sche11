@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Everything&#39;s Alright - 塞壬唱片-MSR/DJ Okawari/澤田かおり](https://music.163.com/#/song?id=1460626792)
 - [いってらっしゃい - ヒグチアイ](https://music.163.com/#/song?id=2093241816)
 - [Cosmodiver - 藍月なくる](https://music.163.com/#/song?id=2104656944)
 - [温暖的约定 - 小缘](https://music.163.com/#/song?id=2104358989)
 - [这场青春值得骄傲 - Vicky宣宣](https://music.163.com/#/song?id=1841819403)
-- [Tell me - milet](https://music.163.com/#/song?id=1420533652)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
