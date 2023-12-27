@@ -42,11 +42,11 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+- [remind - Lu1](https://music.163.com/#/song?id=2107611346)
+- [HEART BEAT - YOASOBI](https://music.163.com/#/song?id=2108833053)
+- [神笔马良 - 李思雨](https://music.163.com/#/song?id=2107553590)
 - [Snow Parade - 塞壬唱片-MSR/原田夏樹/Mariko Suzuki&lpar;from cinnamons&rpar;](https://music.163.com/#/song?id=2110359806)
 - [未来永劫期待ゼロ - みゆはん](https://music.163.com/#/song?id=2034314487)
-- [君の望み、君の願い - CIEL](https://music.163.com/#/song?id=1911323571)
-- [Everything&#39;s Alright - 塞壬唱片-MSR/DJ Okawari/澤田かおり](https://music.163.com/#/song?id=1460626792)
-- [いってらっしゃい - ヒグチアイ](https://music.163.com/#/song?id=2093241816)
 <!-- BLOG-POST-LIST:END -->
 
 [![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
