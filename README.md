@@ -20,10 +20,6 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://rsshub.com" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
-  </a>
-  &emsp;
 
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
@@ -42,7 +38,7 @@
 
 <!--Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
-- [トレセン音頭（特雷森音头） - Kitasanゞ卫ちゃ](https://music.163.com/#/song?id=2101427581)
+- [トレセン音头（特雷森音头） - Kitasanゞ卫ちゃ](https://music.163.com/#/song?id=2101427581)
 - [&lpar;Believed Believes&rpar; Believing - 塞壬唱片-MSR/David Lin/Erik Castro/金小鱼](https://music.163.com/#/song?id=2111780858)
 - [记忆停留 - AnkeR0619](https://music.163.com/#/song?id=1840430546)
 - [remind - Lu1](https://music.163.com/#/song?id=2107611346)
