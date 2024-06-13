@@ -40,12 +40,10 @@
 <!-- BLOG-POST-LIST:START -->
 - [旋蓝之舞 Whirling of Vairambhaka - HOYO-MiX](https://music.163.com/#/song?id=2116865669)
 - [ジレンマ - YuNi](https://music.163.com/#/song?id=1360967223)
-- [トレセン音頭（特雷森音头） - Kitasanゞ卫ちゃ](https://music.163.com/#/song?id=2101427581)
+- [トレセン音头（特雷森音头） - Kitasanゞ卫ちゃ](https://music.163.com/#/song?id=2101427581)
 - [&lpar;Believed Believes&rpar; Believing - 塞壬唱片-MSR/David Lin/Erik Castro/金小鱼](https://music.163.com/#/song?id=2111780858)
 - [记忆停留 - AnkeR0619](https://music.163.com/#/song?id=1840430546)
 <!-- BLOG-POST-LIST:END -->
-
-[![Netease recently played](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)](https://neteaserecentlyplayed.tk/?id=389293423&cache=3600&show_percent=1&title=最近在听)
 
     
 <details>
@@ -55,15 +53,7 @@
 
 **🐱 My Github Data** 
 <br>
-> 🏆 * Contributions in the Year 2020
- > 
-> 📦 * kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 * Public Repositories
- > 
-> 🔑 * Private Repositories 
+
 
 **I'm a Night 🦉** 
   
